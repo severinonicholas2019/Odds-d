@@ -1,0 +1,38 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=56809:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/nicholasseverino/IdeaProjects/ODdd's/out/production/ODdd's Main
+Scenario 1: Using a single 6-sided die, what is the probability of rolling an odd number?
+Expected Outcome: 0.0
+Count of True: 49986
+Count of False: 50014
+Condition Reached: 49.986
+
+
+Scenario 2: Using a single 10-sided die, what is the probability of rolling an even number, or a number over 5?
+Expected Outcome:0.7
+Count of True: 69826
+Count of False: 30174
+Condition Reached: 69.826
+
+
+Scenario 3: Using a single 6-sided die, what is the probability of rolling an even number on the first roll, and an odd number on
+the second roll?
+Expected Outcome: 0.25
+Count of True: 25178
+Count of False: 25.178
+Condition Reached: 25.178
+
+
+Scenario 4: Using a single 6-sided die, what is the probability of rolling a 1 or 2 on the first roll, a 3 or 4 on the second roll, and a 5 or 6 on the last roll?
+Expected Outcome: 0.037037037037037035
+Count of True: 5445
+Count of False: 94555
+Condition Reached: 5.445
+
+
+Scenario 5: Using a 6-sided die, what is the probability of rolling the die four times and getting a unique number each time,
+Expected Outcome: 0.2777777777777778
+Count of True: 27792
+Count of False: 27.792
+Condition Reached: 27.792
+
+
+Process finished with exit code 0
